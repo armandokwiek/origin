@@ -1,5 +1,0 @@
-def add():
-    pass
-
-def subtract():
-    hello
